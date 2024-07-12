@@ -1,6 +1,6 @@
 Package: multe
 Title: Multiple Treatment Effects Regression
-Version: 1.0.1
+Version: 1.1.0
 Authors@R: 
     c(person(given = "Michal",
             family = "Kolesár",
@@ -29,13 +29,13 @@ Config/testthat/edition: 3
 Language: en-US
 URL: https://github.com/kolesarm/multe
 BugReports: https://github.com/kolesarm/multe/issues
-RoxygenNote: 7.3.1
+RoxygenNote: 7.3.2
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2024-06-18 15:54:25 UTC; kolesarm
+Packaged: 2024-07-12 15:47:07 UTC; kolesarm
 Author: Michal Kolesár [aut, cre] (<https://orcid.org/0000-0002-2482-7796>),
   Paul Goldsmith-Pinkham [ctb],
   Peter Hull [ctb]
 Maintainer: Michal Kolesár <kolesarmi@googlemail.com>
 Repository: CRAN
-Date/Publication: 2024-06-19 09:30:02 UTC
+Date/Publication: 2024-07-12 16:00:02 UTC
